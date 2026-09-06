@@ -1,76 +1,54 @@
-<p align="center">
-  <img src="./header.png" alt="Rajith Sundar" width="100%" />
-</p>
+# Rajith Sundar
 
-<h1 align="center">Hey, I'm Rajith Sundar 👋</h1>
+**Software Engineer & Cybersecurity Enthusiast**  
+Computer Science Undergraduate &bull; Lovely Professional University (LPU), Punjab, India
 
-<p align="center">
-  <strong>CS Undergrad @ Lovely Professional University</strong> &bull; Building with <strong>Full Stack</strong>, <strong>AI Systems</strong> & <strong>Cybersecurity</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rajith-sundar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://rajithsundar.github.io"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:rajithsundarpillai@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/RajithSundar"><img src="https://komarev.com/ghpvc/?username=RajithSundar&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajith--sundar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajith-sundar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rajithsundar.github.io-0969DA?style=flat-square&logo=google-chrome&logoColor=white)](https://rajithsundar.github.io)
+[![Email](https://img.shields.io/badge/Email-rajithsundarpillai%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajithsundarpillai@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-RajithSundar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RajithSundar)
 
 ---
 
-### 📌 About Me
+### Professional Summary
 
-- 🎓 **Student**: 1st-year Computer Science undergraduate at **Lovely Professional University (LPU)**, Punjab, India.
-- 💻 **Core Interests**: Full-stack engineering, practical cybersecurity, and building AI agent workflows.
-- 🔭 **Current Focus**: Architecting scalable web applications and studying secure system design.
-- ♟️ **Beyond Code**: Big on chess strategy, sci-fi, and exploring how complex systems work under the hood.
+Undergraduate Computer Science student with a focus on full-stack web development, intelligent systems, and cybersecurity principles. Experienced in building end-to-end applications across modern JavaScript/TypeScript ecosystems, Python backend services, and foundational systems programming in C++. Interested in resilient architectures, secure application design, and applied machine learning.
 
 ---
 
-### 🚀 Featured Projects
+### Technical Competencies
 
-| Project | Description | Stack |
+- **Programming Languages:** Python, C++, Java, JavaScript (ES6+), TypeScript, SQL, HTML5/CSS3
+- **Frameworks & Libraries:** React, Next.js, Node.js, Express.js, FastAPI, Tailwind CSS
+- **Databases & Storage:** PostgreSQL, MongoDB
+- **Tools & Platforms:** Git, GitHub, Linux / Unix CLI, Docker, Postman, VS Code
+- **Areas of Study:** Secure Software Engineering, Retrieval-Augmented Generation (RAG), Autonomous AI Systems, Data Structures & Algorithms
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🛍️ **[Vogue-Trends](https://github.com/RajithSundar/Vogue-Trends)** | Full-stack MERN boutique storefront with dynamic style discovery and cart flows | React, Node.js, Express, MongoDB |
-| ⚡ **[SwiftRAG](https://github.com/RajithSundar/SwiftRAG)** | Retrieval-Augmented Generation pipeline for intelligent context search & Q&A | Python, Vector DBs, LLMs |
-| 🤖 **[AgentOne](https://github.com/RajithSundar/AgentOne)** | Autonomous agent workflows and tool-calling integration | Python, AI Agents |
-| 👁️ **[EyeMouse](https://github.com/RajithSundar/EyeMouse)** | Computer vision accessibility tool enabling hands-free cursor navigation via facial tracking | Python, OpenCV |
-| 🌐 **[Portfolio](https://github.com/RajithSundar/rajithsundar.github.io)** | Personal interactive portfolio website built with modern UI animations | Next.js 15, TypeScript, Tailwind CSS |
+| **[SwiftRAG](https://github.com/RajithSundar/SwiftRAG)** | Retrieval-Augmented Generation system designed for structured context search, vector embeddings, and contextual document question answering. | Python, Vector DB, LLM APIs |
+| **[Vogue-Trends](https://github.com/RajithSundar/Vogue-Trends)** | Production-grade MERN boutique e-commerce web application featuring user authentication, session-based cart management, and dynamic product catalogs. | React, Node.js, Express, MongoDB |
+| **[AgentOne](https://github.com/RajithSundar/AgentOne)** | Autonomous agent workflow framework integrating tool calling, goal planning, and multi-step task resolution. | Python, AI Agents |
+| **[EyeMouse](https://github.com/RajithSundar/EyeMouse)** | Computer vision assistive navigation utility utilizing facial landmarks and optical flow to enable hands-free cursor interaction. | Python, OpenCV |
+| **[Portfolio Website](https://github.com/RajithSundar/rajithsundar.github.io)** | Production portfolio website built with modern UI standards, dynamic layout rendering, and optimized performance. | Next.js 15, TypeScript, Tailwind CSS |
 
 ---
 
-### 🛠️ Tech Stack
+### Education
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,git,linux,docker,postman&theme=dark" alt="My Skills" />
-  </a>
-</p>
-
-<details>
-  <summary><b>Detailed Breakdown</b></summary>
-  <br />
-
-  - **Languages**: Python, C++, Java, JavaScript, TypeScript, SQL, HTML/CSS
-  - **Frameworks & Libraries**: React, Next.js, Express.js, FastAPI, Tailwind CSS
-  - **Databases & Storage**: PostgreSQL, MongoDB
-  - **Tools & Environments**: Git, GitHub, Linux, Docker, Postman, VS Code, Figma
-</details>
+**Lovely Professional University (LPU)** &bull; *Punjab, India*  
+Bachelor of Technology (B.Tech) in Computer Science and Engineering  
+*Expected Graduation: 2028*
 
 ---
 
-### 📊 GitHub Activity
+### Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=RajithSundar&show_icons=true&theme=tokyonight&hide_border=true" alt="Rajith's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=RajithSundar&theme=tokyonight&hide_border=true" alt="Rajith's Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RajithSundar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <i>"Building systems that are adaptive, resilient, and purposeful."</i>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=RajithSundar&show_icons=true&theme=github_dark&hide_border=true" alt="Rajith's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=RajithSundar&theme=dark&hide_border=true" alt="Rajith's GitHub Streak" />
 </p>
