@@ -44,11 +44,3 @@ Undergraduate Computer Science student with a focus on full-stack web developmen
 Bachelor of Technology (B.Tech) in Computer Science and Engineering  
 *Expected Graduation: 2028*
 
----
-
-### Activity Overview
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=RajithSundar&show_icons=true&theme=github_dark&hide_border=true" alt="Rajith's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=RajithSundar&theme=dark&hide_border=true" alt="Rajith's GitHub Streak" />
-</p>
